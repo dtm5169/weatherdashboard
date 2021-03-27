@@ -1,0 +1,36 @@
+header {
+    padding: 0.5%;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    display: left;
+}
+
+ul {
+    list-style-type: none;
+  }
+#searchBtn {
+    border-radius: 20%;
+    background-color: rgb(87, 123, 209);
+    color: white;
+}
+.moderate {
+    border-radius: 10px;
+    padding: 5%;
+    background-color: rgb(230, 31, 5);
+    color: white;
+}
+  
+#fiveDay {
+    display: center;
+    margin-left: 100px;
+}
+
+#currentCity {
+    margin-left: 217px;
+    border: 1px solid black;
+    width: 380px;
+    
+}
+
